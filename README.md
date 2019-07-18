@@ -1,0 +1,6 @@
+# Software Engineering Methods
+
+| Mast  er | Develop | Release | License |
+|--------|---------|---------|---------|
+| [![Build Status](https://travis-ci.org/SaiWannaAung1/Calculator.svg?branch=master)](https://travis-ci.org/SaiWannaAung1/Calculator) | [![Build Status](https://travis-ci.org/SaiWannaAung1/Calculator.svg?branch=develop)](https://travis-ci.org/SaiWannaAung1/Calculator) | [![Releases](https://img.shields.io/github/release/SaiWannaAung1/Calculator/all.svg?style=flat-square)](https://github.com/SaiWannaAung1/Calculator/releases) | [![LICENSE](https://img.shields.io/github/license/SaiWannaAung1/Calculator.svg?style=flat-square)](https://github.com/kSaiWannaAung1/Calculator/blob/master/LICENSE) |
+| [![codecov](https://codecov.io/gh/SaiWannaAung1/Calculator/branch/master/graph/badge.svg)](https://codecov.io/gh/SaiWannaAung1/Calculator) | [![codecov](https://codecov.io/gh/SaiWannaAung1/Calculator/branch/develop/graph/badge.svg)](https://codecov.io/gh/SaiWannaAung1/Calculator) | | |
