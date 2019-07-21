@@ -1,4 +1,4 @@
-FROM openjdk:latest
-COPY ./target/classes/com /tmp/com
-WORKDIR /tmp
-ENTRYPOINT ["java", "com.napier.sem.App"]
+#FROM openjdk:latest
+#COPY ./target/seMethods.jar /tmp
+#WORKDIR /tmp
+#ENTRYPOINT ["java", "-jar", "seMethods.jar", "db:3306"]
